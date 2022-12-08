@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_vue3=self.webpackChunkwebpack_vue3||[]).push([[613],{9613:(r,t,e)=>{e.r(t),e.d(t,{default:()=>l});var s=e(6252);const n={class:"collection-page"},c=[(0,s._)("p",null,"\u6536\u96C6",-1)];function o(p,_){return(0,s.wg)(),(0,s.iD)("div",n,c)}var u=e(3744);const d={},l=(0,u.Z)(d,[["render",o]])}}]);

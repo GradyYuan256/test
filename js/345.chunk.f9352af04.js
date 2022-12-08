@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_vue3=self.webpackChunkwebpack_vue3||[]).push([[345],{9345:(l,t,e)=>{e.r(t),e.d(t,{default:()=>r});var s=e(6252);const n={class:"material-page"},c=[(0,s._)("p",null,"\u6750\u6599",-1)];function o(i,p){return(0,s.wg)(),(0,s.iD)("div",n,c)}var u=e(3744);const d={},r=(0,u.Z)(d,[["render",o]])}}]);
